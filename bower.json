@@ -2,8 +2,8 @@
   "name": "mixins",
   "version": "0.1.0",
   "main": "mixins.less",
-  "ignore": [
-    ".jshintrc",
-    "*.sublime-*"
-  ]
+  "dependencies": {
+    "mixins-gradients": "git://github.com/upstage/mixins-gradients.git"
+  },
+  "ignore": ["*.sublime-*"]
 }
