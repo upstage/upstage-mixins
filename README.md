@@ -1,4 +1,3 @@
-mixins
-======
+# Mixins
 
-LESS mixin library.
+> LESS mixin library.
