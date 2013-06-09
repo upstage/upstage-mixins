@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "main": "mixins.less",
   "dependencies": {
-    "mixins-gradients": "git://github.com/upstage/mixins-gradients.git"
+    "mixins-gradients": "0.1.0"
   },
   "ignore": ["*.sublime-*"]
 }
