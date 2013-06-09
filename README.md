@@ -4,11 +4,20 @@
 
 ## Get started
 
-[Download](https://github.com/upstage/mixins/archive/master.zip), or install with [Bower](https://github.com/bower/bower):
+[Download](https://github.com/upstage/mixins/archive/master.zip), or install using [Bower](https://github.com/bower/bower):
+
+
+Install the Upstage mixin library:
 
 ``` bash
 bower install mixins
 ```
+
+### Invididual components:
+
+- [**<code>mixins-gradients</code>  bower install mixins-gradients**](https://github.com/upstage/mixins-gradients/)
+- [**<code>mixins-fonts</code>  bower install mixins-fonts**](https://github.com/upstage/mixins-fonts/)
+
 
 ## Author
 
