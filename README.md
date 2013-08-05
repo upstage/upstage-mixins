@@ -1,11 +1,12 @@
 # LESS Mixin Library
 
-> A collection of LESS mixins that can be used together, or individually
+> A collection of LESS mixins
+
+From the [Upstage component library](https://github.com/upstage/components).
 
 ## Get started
 
 [Download](https://github.com/upstage/mixins/archive/master.zip), or install using [Bower](https://github.com/bower/bower):
-
 
 Install the Upstage mixin library:
 
@@ -13,10 +14,17 @@ Install the Upstage mixin library:
 bower install mixins
 ```
 
-### Invididual components:
 
-- [**<code>mixins-gradients</code>  bower install mixins-gradients**](https://github.com/upstage/mixins-gradients/)
-- [**<code>mixins-fonts</code>  bower install mixins-fonts**](https://github.com/upstage/mixins-fonts/)
+### Invididual Components:
+#### Mixins
+
+- **[bower install mixins-fonts](https://github.com/upstage/mixins-fonts/)**
+- **[bower install mixins-gradients](https://github.com/upstage/mixins-gradients/)**
+- **[bower install mixins-retina](https://github.com/upstage/mixins-fonts/)**
+
+### Grid
+
+- **[bower install grid](https://github.com/upstage/grid/)**
 
 
 ## Author
