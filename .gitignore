@@ -10,9 +10,9 @@ lib-cov
 pids
 logs
 results
+tmp
 
 npm-debug.log
 /node_modules/
 
-*.sublime-project
-*.sublime-workspace
+*.sublime-*

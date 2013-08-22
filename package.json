@@ -1,0 +1,23 @@
+{
+  "name": "upstage-mixins",
+  "description": "Base LESS mixins for the Upstage component library.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Jon Schlinkert",
+    "name": "https://github.com/jonschlinkert"
+  },
+  "main": "mixins.less",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/upstage/upstage-mixins.git"
+  },
+  "bugs": {
+    "url": "https://github.com/upstage/upstage-mixins/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/upstage/upstage-mixins/blob/master/LICENSE-MIT"
+    }
+  ]
+}

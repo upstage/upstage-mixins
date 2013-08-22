@@ -1,8 +1,9 @@
-# LESS Mixin Library
+# upstage-mixins
 
-> A collection of LESS mixins
+> Base LESS mixin library for Upstage components.
 
-From the [Upstage component library](https://github.com/upstage/components).
+Visit the [Upstage component library](https://github.com/upstage/components).
+
 
 ## Get started
 
@@ -13,18 +14,29 @@ Install the Upstage mixin library:
 ``` bash
 bower install mixins
 ```
+or
+
+``` bash
+npm install upstage-mixins
+```
 
 
 ### Invididual Components:
 #### Mixins
 
-- **[bower install mixins-fonts](https://github.com/upstage/mixins-fonts/)**
-- **[bower install mixins-gradients](https://github.com/upstage/mixins-gradients/)**
-- **[bower install mixins-retina](https://github.com/upstage/mixins-fonts/)**
+- **[bower install upstage-mixins-fonts](https://github.com/upstage/mixins-fonts/)**
+- **[bower install upstage-mixins-gradients](https://github.com/upstage/mixins-gradients/)**
+- **[bower install upstage-mixins-retina](https://github.com/upstage/mixins-fonts/)**
+
+- **[npm install upstage-mixins-fonts](https://github.com/upstage/mixins-fonts/)**
+- **[npm install upstage-mixins-gradients](https://github.com/upstage/mixins-gradients/)**
+- **[npm install upstage-mixins-retina](https://github.com/upstage/mixins-fonts/)**
+
 
 ### Grid
 
-- **[bower install grid](https://github.com/upstage/grid/)**
+- **[bower install upstage-grid](https://github.com/upstage/grid/)**
+- **[npm install upstage-grid](https://github.com/upstage/grid/)**
 
 
 ## Author
