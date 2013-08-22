@@ -2,8 +2,5 @@
   "name": "upstage-mixins",
   "version": "0.1.0",
   "main": "mixins.less",
-  "dependencies": {
-    "upstage-gradients-mixins": "*"
-  },
   "ignore": ["*.sublime-*"]
 }
